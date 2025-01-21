@@ -21,7 +21,7 @@
 <p align="left">💻 Passionate about AI and always eager to explore the latest in tech!<br>📚 With a solid foundation in software development.<br>🎓 Currently Learning: Backend development with Node.js, Express, and MongoDB.<br>📩 Let’s connect and turn ideas into reality!</p>
 
 ###
-
+<hr/>
 <h4 align="left">Tech Stack :</h4>
 
 ###
