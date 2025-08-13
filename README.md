@@ -1,16 +1,6 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FedyBenMahfoudh/count.svg?"  />
-</div>
-
 ###
 
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQHTFk92bui-bg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731574321038?e=1743033600&v=beta&t=TwmoDqhMIs-zQZ2XmdzzVgd-tp3JBGtg9YnebjrqimY"  />
-</div>
-
-###
-
-<h2 align="left">Hi 👋! My name is Fedi Ben Mahfoudh, <br>I'm a Software Engineering student from Tunisia, <br>passionate about AI.</h2>
+<h1 align="left">Hi 👋! My name is Fedi Ben Mahfoudh, <br>I'm a Software Engineering student from Tunisia, <br>passionate about AI.</h1>
 
 ###
 
