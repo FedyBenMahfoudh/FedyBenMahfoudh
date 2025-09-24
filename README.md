@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Hi 👋! My name is Fedi Ben Mahfoudh, <br>I'm a Software Engineering student from Tunisia, <br>passionate about AI.</h1>
+<h1 align="left">Hi 👋! I'm Fedi Ben Mahfoudh</h1>
 
 ###
 
